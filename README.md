@@ -19,8 +19,4 @@ An **interactive Power BI dashboard** with visuals and insights for business dec
 - Power BI Desktop  
 - Excel / CSV for data preparation  
 
-## 📂 Files Included
-- `code/` : Any scripts or queries used  
-- `data/` : Dataset used for analysis  
-- `outputs/` : Dashboard screenshots and exported reports  
-- `docs/` : Additional notes or documentation
+
