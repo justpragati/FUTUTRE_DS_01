@@ -13,7 +13,7 @@ Analyze e-commerce data to identify best-selling products, sales trends, and hig
 An **interactive Power BI dashboard** with visuals and insights for business decisions.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](outputs/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ## 🛠 Tools Used
 - Power BI Desktop  
